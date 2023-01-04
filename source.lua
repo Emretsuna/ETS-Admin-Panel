@@ -1,5 +1,5 @@
 if IY_LOADED and not _G.IY_DEBUG == true then
-	-- error("Infinite Yield is already running!",0)
+	-- error("Script By ETS Licenced $110856 By Google",0)
 	return
 end
 
